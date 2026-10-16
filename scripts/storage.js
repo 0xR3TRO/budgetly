@@ -1,5 +1,5 @@
 /**
- * Budgetly — Storage Module (LocalStorage + IndexedDB support)
+ * Budgetly — Storage Module (localStorage)
  * Author: 0xR3TRO (https://github.com/0xR3TRO)
  */
 
